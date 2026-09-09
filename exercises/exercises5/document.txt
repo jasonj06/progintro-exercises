@@ -15,4 +15,10 @@
         long (signed) | 64 bit
         long (unsigned) 0-2^64 | 64 bit
 
-    2. byte
+    2.
+        byte
+
+    3.
+
+    4.
+        it cycles to the lowest integer if 1 is added to its highest integer.
