@@ -19,6 +19,7 @@
         byte
 
     3.
+        5-3program/Project.cs
 
     4.
         it cycles to the lowest integer if 1 is added to its highest integer.
@@ -27,6 +28,8 @@
     a statement is a step that ends with a semicolon and are executed one at a time in order (example int i = 1;). An expression is code that evaluates to a value (example i++;)
 
 5.15 average age
+    5-15program/Project.cs
+
     we create int variables for each person assigned with their corresponding age.
     we calculate the male age average, float explicit and write to console and assigns result to a float var.
     we calculate female age average, float explicit and write to console and assigns result to a float var.
@@ -36,3 +39,5 @@
 5.13 value vs variable
     the relationship between value and variable is that a value (data) is assigned to a variable (a container). once a value has been assigned to var, the value can be read or modified.
 
+5.8 areas of a circle
+    5-8program/Project.cs
