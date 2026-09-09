@@ -22,3 +22,7 @@
 
     4.
         it cycles to the lowest integer if 1 is added to its highest integer.
+
+5.7 expression vs statement
+    a statement is a step that ends with a semicolon and are executed one at a time in order (example int i = 1;). An expression is code that evaluates to a value (example i++;)
+
