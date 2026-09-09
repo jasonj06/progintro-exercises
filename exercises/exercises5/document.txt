@@ -41,3 +41,6 @@
 
 5.8 areas of a circle
     5-8program/Project.cs
+
+5.10 celcius to fahrenheit
+    5-10program/Project.cs
