@@ -1,0 +1,18 @@
+5.1 temperature
+    float or byte depending on if you want decimals in the temperature
+
+5.2 month
+    byte (0-255) or string depending on if you want to represent a month by number or name
+
+5.3 limits of integers
+    1.
+        sbyte (signed) -128 to 127 | 8 bit
+        byte (unsigned) 0-255 | 8 bit
+        short (signed) -32768 to 32768 | 16 bit
+        ushort (unsigned) 0-65535 | 16 bit
+        int (signed) | 32 bit
+        int (unsigned 0-2^32 | 32 bit
+        long (signed) | 64 bit
+        long (unsigned) 0-2^64 | 64 bit
+
+    2. byte
