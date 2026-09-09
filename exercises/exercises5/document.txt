@@ -26,3 +26,10 @@
 5.7 expression vs statement
     a statement is a step that ends with a semicolon and are executed one at a time in order (example int i = 1;). An expression is code that evaluates to a value (example i++;)
 
+5.15 average age
+    we create int variables for each person assigned with their corresponding age.
+    we calculate the male age average, float explicit and write to console and assigns result to a float var.
+    we calculate female age average, float explicit and write to console and assigns result to a float var.
+    we calculate age average from the previous 2 variables.
+    we calcuate age differemce from the previous 2 variables.
+
