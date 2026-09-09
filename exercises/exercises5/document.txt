@@ -33,3 +33,6 @@
     we calculate age average from the previous 2 variables.
     we calcuate age differemce from the previous 2 variables.
 
+5.13 value vs variable
+    the relationship between value and variable is that a value (data) is assigned to a variable (a container). once a value has been assigned to var, the value can be read or modified.
+
