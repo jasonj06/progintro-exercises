@@ -3,7 +3,7 @@ celsius = 15;
 
 static double celToFahr(sbyte c)
 {
-    return ( c * (9/5) ) + 32; // Formula for C to F: F = 32 + (9/5) * C
+    return ( c * (9.0/5.0) ) + 32; // Formula for C to F: F = 32 + (9/5) * C
 }
 
 Console.WriteLine("15 degrees celsius is equal to " + celToFahr(celsius) + " degrees fahrenheit");
