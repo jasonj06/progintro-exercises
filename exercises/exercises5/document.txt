@@ -48,3 +48,7 @@
 5.14 daily differences
     5-14program/Project.cs
     this happens because double stores numbers as binary (base-2), so for example 23.7 is not stored  precisely as 23.7 because 1/7 cannot be represented exactly in binary, computer rounds to nearest representable 64 bit (size of double is 64 bit) value.
+
+5.11 epoch
+    5-11program/Project.cs
+    
