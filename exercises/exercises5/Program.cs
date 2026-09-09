@@ -1,7 +1,8 @@
-﻿byte number = 254;
+﻿byte byteNumber = 255;
+sbyte sbyteNumber = 127;
 
-Console.WriteLine(number);
-number++;
-Console.WriteLine(number);
-number++;
-Console.WriteLine(number);
+
+Console.WriteLine("Byte " + byteNumber + " sbyteNumber " + sbyteNumber);
+byteNumber++;
+sbyteNumber++;
+Console.WriteLine("Byte " + byteNumber + " sbyteNumber " + sbyteNumber);
