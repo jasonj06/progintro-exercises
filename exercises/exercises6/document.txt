@@ -10,6 +10,11 @@
 6.9 areas of circles
     6-9program/Program.cs
 
+6.4 length of month
+    6-4program/Program.cs
+    - month, or monthNum for something more descriptive
+    - byte (0-255) would be sufficient, as month numbers are whole and do not exceed 12
+
 TODO
 6.4 length of month
 6.10 primes
