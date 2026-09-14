@@ -19,7 +19,7 @@
         byte
 
     3.
-        5-3program/Project.cs
+        5-3program/Program.cs
 
     4.
         it cycles to the lowest integer if 1 is added to its highest integer.
@@ -28,7 +28,7 @@
     a statement is a step that ends with a semicolon and are executed one at a time in order (example int i = 1;). An expression is code that evaluates to a value (example i++;)
 
 5.15 average age
-    5-15program/Project.cs
+    5-15program/Program.cs
 
     we create int variables for each person assigned with their corresponding age.
     we calculate the male age average, float explicit and write to console and assigns result to a float var.
@@ -40,23 +40,23 @@
     the relationship between value and variable is that a value (data) is assigned to a variable (a container). once a value has been assigned to var, the value can be read or modified.
 
 5.8 areas of a circle
-    5-8program/Project.cs
+    5-8program/Program.cs
 
 5.10 celcius to fahrenheit
-    5-10program/Project.cs
+    5-10program/Program.cs
 
 5.14 daily differences
-    5-14program/Project.cs
+    5-14program/Program.cs
     this happens because double stores numbers as binary (base-2), so for example 23.7 is not stored  precisely as 23.7 because 1/7 cannot be represented exactly in binary, computer rounds to nearest representable 64 bit (size of double is 64 bit) value.
 
 5.11 epoch (unfinished)
-    5-11program/Project.cs
+    5-11program/Program.cs
 
 5.16 printf (unfinished)
-    5-16program/Project.cs
+    5-16program/Program.cs
 
 5.20 dice
-    5-20program/Project.cs
+    5-20program/Program.cs
     1.
         - int
     
