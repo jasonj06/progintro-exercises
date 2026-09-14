@@ -6,3 +6,6 @@
 
 6.6 celcius to fahrenheit
     6-6program/Project.cs
+
+6.9 areas of circles
+    6-9program/Project.cs
