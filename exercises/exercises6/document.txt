@@ -9,3 +9,7 @@
 
 6.9 areas of circles
     6-9program/Program.cs
+
+TODO
+6.4 length of month
+6.10 primes
