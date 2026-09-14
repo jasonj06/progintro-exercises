@@ -54,3 +54,6 @@
 
 5.16 printf (unfinished)
     5-16program/Project.cs
+
+5.20 dice
+    5-20program/Project.cs
