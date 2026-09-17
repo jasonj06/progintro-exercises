@@ -1,2 +1,7 @@
 7.3 array type
-    the type of the data must be the same as the type of the array when initialized
+    the type of the data must be the same as the type of the array when declared
+
+7.5 size of array allocation
+    int[] list;
+    list = new int[10];
+
