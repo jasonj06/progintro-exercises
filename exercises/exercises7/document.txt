@@ -7,3 +7,9 @@
 
 7.4 largest in array
     7-4program/Program.cs
+
+7.7 sudoko puzzle
+    array of arrays:
+    [[1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]]
